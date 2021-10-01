@@ -1,6 +1,6 @@
 <div align="center"><img src="./assets/head.jpg"></div>
 
-# AWESOME DATA SCIENCE
+# AWESOME DATA SCIENCE :)
 
 **An open source Data Science repository to learn and apply towards solving real world problems.**
 
